@@ -1,3 +1,6 @@
 Hello,Git!
 foo
-erh
+<<<<<<< HEAD
+=======
+diference
+>>>>>>> feature/foo
