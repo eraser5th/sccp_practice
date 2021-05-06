@@ -2,3 +2,11 @@ Hello,Git!
 foo
 diference
 aiueo
+foo
+foo
+foo
+foo
+diference
+diference
+diference
+diference
